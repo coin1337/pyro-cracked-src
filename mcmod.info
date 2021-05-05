@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "${modname}",
+    "description": "The most amazingist client you could ever want :rofl:",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "pyro.nuker.dev",
+    "updateUrl": "",
+    "authorList": [
+      "GiantNuker"
+    ],
+    "credits": "GiantNuker - This is my client lol\nmastercooker, dominika, Tigermouthbear, Darki - help along the way <3",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
